@@ -9,7 +9,7 @@ public:
 
         }
         for(int i = 0;i<n;i++){
-            if(freq[nums[i]] >= 2) return true;
+            if(freq[nums[i]] > 1) return true;
         }
         return false;
 
