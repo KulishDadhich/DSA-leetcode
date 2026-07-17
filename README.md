@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -20,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
