@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
