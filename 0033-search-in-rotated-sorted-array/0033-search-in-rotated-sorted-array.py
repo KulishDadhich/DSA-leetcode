@@ -1,31 +1,24 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        low = 0
-        high = len(nums) - 1
+        left, right = 0, len(nums) - 1
 
-        while low <= high:
-            mid = (low + high) // 2
+        while left <= right:
+            mid = (left + right) // 2
 
-            # Target found
             if nums[mid] == target:
                 return mid
 
-            # Left half is sorted
-            if nums[low] <= nums[mid]:
-
-                # Target lies in left half
-                if nums[low] <= target < nums[mid]:
-                    high = mid - 1
+            # Check if left half is sorted
+            if nums[left] <= nums[mid]:
+                if nums[left] <= target < nums[mid]:
+                    right = mid - 1
                 else:
-                    low = mid + 1
-
-            # Right half is sorted
+                    left = mid + 1
+            # Otherwise, right half is sorted
             else:
-
-                # Target lies in right half
-                if nums[mid] < target <= nums[high]:
-                    low = mid + 1
+                if nums[mid] < target <= nums[right]:
+                    left = mid + 1
                 else:
-                    high = mid - 1
+                    right = mid - 1
 
         return -1
