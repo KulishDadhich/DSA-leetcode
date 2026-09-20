@@ -1,23 +1,26 @@
 class Solution:
     def combinationSum(self, candidates, target):
-        result = []
+        ans = []
 
-        def backtrack(i, current, total):
+        def solve(i, current, total):
+
+            # We reached the target
             if total == target:
-                result.append(current.copy())
+                ans.append(current.copy())
                 return
 
-            if i == len(candidates) or total > target:
+            # We went too far
+            if total > target or i == len(candidates):
                 return
 
-            # Take candidates[i]
+            # 1. Take the current number
             current.append(candidates[i])
-            backtrack(i, current, total + candidates[i])
+            solve(i, current, total + candidates[i])
             current.pop()
 
-            # Don't take candidates[i]
-            backtrack(i + 1, current, total)
+            # 2. Skip the current number
+            solve(i + 1, current, total)
 
-        backtrack(0, [], 0)
+        solve(0, [], 0)
 
-        return result
+        return ans
