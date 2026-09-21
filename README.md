@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
