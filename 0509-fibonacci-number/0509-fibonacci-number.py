@@ -1,17 +1,10 @@
 class Solution:
-    def fib(self, n):
-        if n == 0:
-            return 0
+    def func(self, num):
+        if num == 0 or num == 1:
+            return num
         
-        if n == 1:
-            return 1
-        
-        a = 0
-        b = 1
-        
-        for i in range(2, n + 1):
-            c = a + b
-            a = b
-            b = c
-        
-        return b
+        return self.func(num - 1) + self.func(num - 2)
+
+    def fib(self, n: int) -> int:
+        answer = self.func(n)
+        return answer
