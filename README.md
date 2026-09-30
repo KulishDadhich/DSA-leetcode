@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -95,8 +97,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0509-fibonacci-number) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 <!---LeetCode Topics End-->
