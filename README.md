@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
