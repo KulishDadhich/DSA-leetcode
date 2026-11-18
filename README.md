@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0509-fibonacci-number) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Memoization
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Binary Indexed Tree
 |  |
