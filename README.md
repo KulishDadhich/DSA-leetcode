@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/KulishDadhich/DSA-leetcode/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KulishDadhich/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
